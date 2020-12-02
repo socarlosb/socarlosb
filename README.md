@@ -1,15 +1,10 @@
-It's me, Carlos!
+# Hello, I'm Carlos!
 
-# Usage
+> I'm a software developer with a focus on the web and javascript
 
-Via npx:
+- Currently working as a digital consultant for [Inova+](http://inova.business/)
+- Find my experience path on [Linkedin](https://linkedin.com/in/socarlosb) 💪
+- Social media? Check [Twitter](https://twitter.com/socarlosb), but I don't _tweet_ a lot 🤷‍♂️
+- Check my GitHub profile for some code experiences
 
-```
-npx socarlosb
-```
-
-Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy.
-
-## Thanks
-
-Thanks to Tierney Cyren <bnb> for the idea of this npm card, check is repo at https://github.com/bnb/bitandbang
+(This is a WIP page 😷)

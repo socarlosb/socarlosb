@@ -1,6 +1,6 @@
 # Hello, I'm Carlos!
 
-> I'm a software developer with a focus on the web and javascript
+> I'm a software developer with a focus on getting human life simpler using the web and javascript!
 
 - Currently working as a digital consultant for [Inova+](http://inova.business/)
 - Find my experience path on [Linkedin](https://linkedin.com/in/socarlosb) 💪

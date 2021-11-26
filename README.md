@@ -1,6 +1,6 @@
 # Hello, I'm Carlos!
 
-> I'm a software developer with a focus on getting human life simpler using the web and javascript!
+> I'm a software developer with a focus on getting the human day-to-day life simpler using the web and javascript!
 
 - Currently working as a digital consultant for [Inova+](http://inova.business/)
 - Find my experience path on [Linkedin](https://linkedin.com/in/socarlosb) 💪
@@ -8,3 +8,8 @@
 - You can find some code experiences on this GitHub profile 
 
 (This is a WIP page 😷)
+
+To keep my self up to date I consume content from YouTube, here are some of the channels that contains amazing content... im my humble opinion.
+This is my way to say thanks to all of the content creators that continue shareing their knowledge and experience.
+
+[check the list here](/content.md)

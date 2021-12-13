@@ -8,7 +8,7 @@
 
 [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
 
-[Web Dev Simplified](https://www.youtube.com/c/JamesQQuick)
+[James Q Quick](https://www.youtube.com/c/JamesQQuick)
 
 [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
 

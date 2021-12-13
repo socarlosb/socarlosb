@@ -4,7 +4,7 @@
 
 [Fireship](https://www.youtube.com/c/Fireship)
 
-[dcode](https://www.youtube.com/c/dcode-software )
+[dcode](https://www.youtube.com/c/dcode-software)
 
 [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
 
@@ -12,13 +12,15 @@
 
 [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
 
+[Engineer Man](https://www.youtube.com/c/EngineerMan)
+
 ## Angular/Vue web focus
 
-[Academind ](https://www.youtube.com/c/Academind)
+[Academind](https://www.youtube.com/c/Academind)
 
 ## React web focus
 
-[The Net Ninja](https://www.youtube.com/c/KentCDodds-vids)
+[Kent C. Dodds](https://www.youtube.com/c/KentCDodds-vids)
 
 ## Development Overall
 

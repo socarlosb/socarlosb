@@ -9,6 +9,6 @@
 (This is a WIP page 😷)
 
 To keep my self up to date I consume content from YouTube, here are some of the channels that contains amazing content... im my humble opinion.
-This is my way to say thanks to all of the content creators that continue shareing their knowledge and experience.
+This is my way to say thanks to all of the content creators that continue sharing their knowledge and experience.
 
 [check the list here](/content.md)

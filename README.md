@@ -1,14 +1,11 @@
 # Hello, I'm Carlos!
 
-> I'm a software developer with a focus on getting the human day-to-day life simpler using the web and javascript!
+A software developer who likes rounded buttons!
 
-- Find my experience path on [Linkedin](https://linkedin.com/in/socarlosb) 💪
-- Social media? Check [Twitter](https://twitter.com/socarlosb), but I don't _tweet_ a lot 🤷‍♂️
-- You can find some code experiences on this GitHub profile 
+<div style="display: flex; gap: 2em;">
+  <a href="https://linkedin.com/in/socarlosb" target="_blank">linkedIn</a>
+  <a href="https://x.com/socarlosb" target="_blank">x (twitter)</a>
+  <a href="https://github.com/socarlosb" target="_blank">github</a>
+</div>
 
-(This is a WIP page 😷)
 
-To keep my self up to date I consume content from YouTube, here are some of the channels that contains amazing content... im my humble opinion.
-This is my way to say thanks to all of the content creators that continue sharing their knowledge and experience.
-
-[check the list here](/content.md)
